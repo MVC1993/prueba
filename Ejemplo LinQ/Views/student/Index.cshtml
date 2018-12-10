@@ -1,0 +1,140 @@
+﻿<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+
+    table {
+        width: 100%;
+        font-size: 11pt;
+    }
+
+    table, th, td {
+        border: 2px solid #cecece;
+        border-collapse: collapse;
+        text-align: center;
+        table-layout: fixed;
+    }
+
+    .selected {
+        background-color: #f36f48;
+        font-weight: bold;
+        color: white;
+    }
+
+    li {
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+
+    input {
+        border: none;
+        padding-top: 5px;
+        width: 95%;
+        transform: translateX(-50%);
+        margin-left: 50%;
+        text-align: center;
+        color: rgba(0,0,0,0.8);
+        background-color: rgba(0,0,0,0);
+    }
+
+    #search {
+        width: 120px;
+        height: 30px;
+        border: 2px solid #E5E5E5;
+        background-color: #E5E5E5;
+        border-radius: 1em;
+        margin-top: 90px;
+        margin-left: 50%;
+        overflow: hidden;
+        transition-duration: .6s;
+        transform: translateX(-50%);
+    }
+
+        #search input {
+            outline: none;
+        }
+
+        #search:hover {
+            width: 40%;
+        }
+
+
+    .w3-button {
+        width: 100px;
+        text-align: center;
+    }
+
+    select {
+        font-size: 11pt;
+        display: inline;
+        padding: 10px 13px 10px 13px;
+        max-width: 100%;
+        height: auto;
+        border: 2px solid #aa5050;
+        border-radius: 3px;
+        background-color: #f36f48;
+        color: #b6ff00;
+        font-size: 16px;
+        text-align: center;
+        /* this is must */
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+
+      
+</style>
+
+<br />
+<div>
+    <form action="student/Index" method="post">
+      
+            <select name="Opc">
+                <option>Buscar por:</option>
+                <option value="Materia">Materia</option>
+                <option value="Nombre">Nombre</option>
+                <option value="Promedio">Promedio</option>
+            </select>
+      
+        <div id="search">
+            <input type="text" placeholder='Buscar' name="Busqueda" data-search />
+
+        </div>
+        <br />
+        <p><input type="submit" class="w3-button w3-deep-orange" /></p>
+        <hr />
+    </form>
+    
+    <div class="section" />
+    <table>
+        <tr>
+            <th class="selected">Carnet</th>
+            <th class="selected">Nombre</th>
+            <th class="selected">Materia</th>
+            <th class="selected">Estado</th>
+            <th class="selected">Fecha</th>
+
+
+
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <th>@item.Carnet</th>
+                <th>@item.Nombre</th>
+                <th>@item.Materia</th>
+                <th>@item.Promedio</th>
+                <th>@item.Fecha</th>
+
+
+            </tr>
+
+
+
+        }
+
+    </table>
+</div>
+

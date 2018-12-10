@@ -1,0 +1,78 @@
+﻿@model List<string>
+
+
+<style>
+
+    table {
+        width: 100%;
+        font-size: 11pt;
+    }
+
+    table, th, td {
+        border: 2px solid #cecece;
+        border-collapse: collapse;
+        text-align: center;
+        table-layout: fixed;
+    }
+
+    .selected {
+        background-color: #f36f48;
+        font-weight: bold;
+        color: white;
+    }
+
+    li {
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+</style>
+
+<br />
+<div class="section" />
+<table>
+    <tr>
+        <th class="selected">Letra Inicial</th>
+        <th class="selected">Ultima letra</th>
+        <th class="selected">Que contenga la letra</th>
+        
+        
+    </tr>
+    <tr>
+
+        <td>
+
+            @foreach (var item in ViewBag.dato)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+
+
+        <td>
+            @foreach (var item in ViewBag.dato1)
+            {
+
+
+                <div>@item</div>
+
+            }
+        </td>
+
+        <td>
+            @foreach (var item in ViewBag.dato2)
+            {
+
+
+                <div>@item</div>
+
+            }
+        </td>
+    </tr>
+    </table>
+
+
+
+

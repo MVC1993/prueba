@@ -1,0 +1,121 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+
+    table {
+        width: 100%;
+        font-size: 11pt;
+    }
+
+    table, th, td {
+        border: 2px solid #cecece;
+        border-collapse: collapse;
+        text-align: center;
+        table-layout: fixed;
+    }
+
+    .selected {
+        background-color: #f36f48;
+        font-weight: bold;
+        color: white;
+    }
+
+    li {
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+</style>
+<br />
+<br />
+<div class="section"/>
+<table>
+    <tr>
+        <th class="selected">Numeros Iguales</th>
+  
+        <th class="selected">Numeros Pares</th>
+    
+        <th class="selected">Numeros Mayor que</th>
+   
+        <th class="selected">Numeros de mayor a menor</th>
+
+        <th class="selected">Numeros de menor a mayor</th>
+    </tr>
+
+
+    <tr>
+
+        <td>
+
+            @foreach (var item in ViewBag.dato)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+
+
+
+
+        <td>
+
+            @foreach (var item in ViewBag.dato2)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+
+
+
+
+
+        <td>
+
+            @foreach (var item in ViewBag.dato3)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+
+        <td>
+
+            @foreach (var item in ViewBag.dato4)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+        <td>
+
+            @foreach (var item in ViewBag.dato5)
+            {
+
+                <div>@item</div>
+
+            }
+
+        </td>
+    </tr>
+</table>
+               
+
+            
+        
+
+
+   
+        
+
+

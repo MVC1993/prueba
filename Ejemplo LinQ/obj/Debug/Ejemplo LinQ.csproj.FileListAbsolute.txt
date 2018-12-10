@@ -1,0 +1,138 @@
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.dll.config
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.pdb
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.exe
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.exe.config
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.rsp
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.exe
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.exe.config
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.rsp
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.AppContext.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Console.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Compression.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Pipes.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Claims.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.ValueTuple.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.exe
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.exe.config
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.rsp
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\VBCSCompiler.exe
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Helpers.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Mvc.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Razor.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Deployment.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Razor.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Razor.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Deployment.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Razor.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Helpers.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Mvc.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csprojAssemblyReference.cache
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csproj.CoreCompileInputs.cache
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csproj.CopyComplete
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.dll
+C:\Users\humberto.rodriguez\source\repos\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.pdb
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.dll.config
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Ejemplo LinQ.pdb
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.exe
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.exe.config
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csc.rsp
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.exe
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.exe.config
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\csi.rsp
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.AppContext.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Collections.Immutable.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Console.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Compression.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.FileSystem.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.IO.Pipes.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.AccessControl.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Claims.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.ValueTuple.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XPath.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.exe
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.exe.config
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\vbc.rsp
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\VBCSCompiler.exe
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\roslyn\VBCSCompiler.exe.config
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.Web.Infrastructure.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Helpers.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Mvc.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Razor.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Deployment.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Razor.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Razor.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Deployment.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Webpages.Razor.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Helpers.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\System.Web.Mvc.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csprojAssemblyReference.cache
+D:\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csproj.CoreCompileInputs.cache
+D:\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.csproj.CopyComplete
+D:\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.dll
+D:\Ejemplo LinQ\Ejemplo LinQ\obj\Debug\Ejemplo LinQ.pdb
